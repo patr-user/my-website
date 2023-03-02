@@ -1,10 +1,6 @@
-
 # dev.to-clone
+
 Home page clone of [dev.to](https://dev.to/)
-
-
-
-
 
 ## Features
 
@@ -25,6 +21,7 @@ Home page clone of [dev.to](https://dev.to/)
 - Axios
 
 ## How to use
+
 - Visit [dev-from.netlify.app](https://dev-from.netlify.app)
 - Play with the UI
 - Toggle beteew different Routes using the navigation menu
@@ -32,15 +29,18 @@ Home page clone of [dev.to](https://dev.to/)
 
 ## Installation
 
-- #### Clone this repo
+- ### Clone this repo
 
 ```bash
   git clone https://github.com/ArjunGTX/dev.to-clone.git
 ```
-- #### install Dependencies 
+
+- #### install Dependencies
+
 ```bash
   npm install
 ```
+
 ## Tech Stack
 
 - **HTML**
@@ -49,18 +49,19 @@ Home page clone of [dev.to](https://dev.to/)
 
 ## APIs
 
-- Articles : [***Dev.to***](https://dev.to/api/articles)
+- Articles : [**_Dev.to_**](https://dev.to/api/articles)
 
 ## Screenshots
+
 ### Desktop View
+
 ![home](https://github.com/ArjunGTX/dev.to-clone/blob/master/screenshots/home-desktop.png)
 
 ### Mobile View
+
 ![home](https://github.com/ArjunGTX/dev.to-clone/blob/master/screenshots/home-mobile.png)
 ![nav](https://github.com/ArjunGTX/dev.to-clone/blob/master/screenshots/nav-mobile.png)
-
 
 ## Feedback
 
 Send your feedbacks to [arjunatpavilion@gmail.com](mailto:arjunatpavilion@gmail.com). Feel free to mention any issues or to provide any suggestions. Thankyou.
-
